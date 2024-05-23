@@ -76,3 +76,4 @@ This tool simplifies the process of memory analysis by automating the extraction
 
 By following these instructions, users can effectively utilize the Memory Analysis Tool for their forensic analysis needs.
 
+![1](https://github.com/Amit-Persky/Digital-forensics-analyzer-Project/assets/159085398/0ea8b1b4-76e9-4c33-a8b7-52b333729db4)
